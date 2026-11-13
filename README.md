@@ -7,21 +7,11 @@ downloads and issue reports; the app's source code is not published here.
 
 ## Windows
 
-### Portable (recommended)
-
-1. Download `labyrinth-iptv-portable-v*.zip` from the latest release.
+1. Download `labyrinth-iptv-portable-v<version>-windows.zip` from the latest release.
 2. Extract it to any folder.
 3. Run `labyrinth_iptv.exe`.
 
 No installation and no admin rights needed. To update, download the new ZIP and replace the folder.
-
-### MSIX installer
-
-1. Download `labyrinth_iptv.msix` from the latest release.
-2. Double-click it to install.
-
-The MSIX package is self-signed, so Windows may show a security warning or ask you to
-trust the certificate first. If that's a problem, use the portable version.
 
 **Requirements:** Windows 10 or 11, 64-bit.
 
