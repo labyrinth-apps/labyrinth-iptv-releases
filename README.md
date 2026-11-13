@@ -27,7 +27,14 @@ trust the certificate first. If that's a problem, use the portable version.
 
 ## macOS
 
-macOS builds are published here when available. Requires macOS 13.5 or later.
+1. Download `Labyrinth-IPTV-<version>-macOS.dmg` from the latest release.
+2. Open it and drag **Labyrinth Streaming** into **Applications**.
+3. Open it from Applications.
+
+The app is signed and notarized by Apple, so it opens without security warnings.
+To update, download the new DMG and replace the app in Applications.
+
+**Requirements:** macOS 13.5 or later, Apple Silicon or Intel.
 
 ## Other platforms
 
